@@ -1,0 +1,26 @@
+alpha
+ minx -5
+ maxx 5
+ miny -5
+ maxy 5
+
+ put "Example 1\n" 
+
+ float a 
+
+ a = 10
+
+ if a ==10 {
+ if a ==10 {
+ get a
+
+}
+}
+
+ graph a*x^2
+
+ put a
+
+ put "\nDone\n"
+
+omega
